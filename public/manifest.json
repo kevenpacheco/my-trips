@@ -1,6 +1,6 @@
 {
-  "name": "React Avançado - Boilerplate",
-  "short_name": "React Avançado",
+  "name": "World Map",
+  "short_name": "World Map",
   "icons": [
     {
       "src": "/image/icon-192.png",
@@ -14,7 +14,7 @@
     }
   ],
   "background_color": "#06092B",
-  "description": "Boilerplate utilizando TypeScript, React, NextJS e Styled Components!",
+  "description": "A simple project showing various places in the world and their curiosities.",
   "display": "fullscreen",
   "start_url": "/",
   "theme_color": "#06092B"
