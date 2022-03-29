@@ -7,7 +7,7 @@ function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>World Map</title>
+        <title>My Trips</title>
         <link rel="shortcut icon" href="/image/icon-512.png" />
         <link rel="apple-touch-icon" href="/image/icon-512.png" />
         <link rel="manifest" href="/manifest.json" />
