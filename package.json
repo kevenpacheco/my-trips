@@ -1,5 +1,5 @@
 {
-  "name": "world-map",
+  "name": "my-trips",
   "private": true,
   "scripts": {
     "dev": "next dev",
