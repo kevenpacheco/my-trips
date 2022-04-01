@@ -9,3 +9,4 @@
 ## Serviços utilizados
 - GraphCMS (Para armazenar os dados)
 - GraphQL Code Generator (Para tipar os dados que vem do GraphCMS)
+- MapBox (Para estilizar o mapa)
