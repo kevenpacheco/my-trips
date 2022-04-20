@@ -60,7 +60,7 @@ npm run start
 ## Technologies
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Typescript](https://www.typescriptlang.org/)
 - [NextJS](https://nextjs.org/)
 - [GraphQL](https://graphql.org/)
  
